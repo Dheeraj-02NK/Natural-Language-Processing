@@ -1,0 +1,1 @@
+NLP (Natural Language Processing) is a field of study that combines computer science, linguistics, and artificial intelligence to enable computers to understand, interpret, and generate human language.
